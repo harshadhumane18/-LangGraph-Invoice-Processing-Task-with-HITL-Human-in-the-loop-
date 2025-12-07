@@ -1,0 +1,32 @@
+# Core LangChain & LangGraph
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Web Framework & API
+fastapi
+uvicorn
+python-multipart
+
+# Database
+sqlalchemy
+alembic
+psycopg2-binary
+
+# Utilities
+python-dotenv
+requests
+aiohttp
+python-dateutil
+
+# Logging & Monitoring
+python-json-logger
+
+# Testing
+pytest
+pytest-asyncio
