@@ -485,18 +485,6 @@ API_DEBUG=False
 MATCH_THRESHOLD=0.95
 AUTO_APPROVE_THRESHOLD=5000.0
 ```
-
-## 📞 Support
-
-For issues or questions:
-1. Check execution logs in `/audit_logs` table
-2. Review checkpoint state in `/human-review/{checkpoint_id}`
-3. Check API docs at `/docs`
-
-## 📄 License
-
-This implementation is provided as-is for the assessment task.
-
 ---
 
 **Built with LangGraph, Pydantic, Gemini 2.5 Flash, and FastAPI**
